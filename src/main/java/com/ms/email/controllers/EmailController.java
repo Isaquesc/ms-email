@@ -27,6 +27,4 @@ public class EmailController {
         return new ResponseEntity<>(emailModel, HttpStatus.CREATED);
     }
 
-
-
 }
